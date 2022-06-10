@@ -4,7 +4,7 @@ Jogo feito em Python junto com um colega de um grupo que participo
 Originalmente feito por Matheus Castilho
 
 
-## Hou to run
+## How to run
 
 ```sh
 python3 ./game.py
